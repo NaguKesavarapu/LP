@@ -1,0 +1,19 @@
+.video-player-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+}
+.video-title {
+  color: #551e53;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}
+.video-description {
+  height: 500px;
+  width: 700px;
+  font-size: 14px;
+}
